@@ -1,10 +1,10 @@
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.7 BLOCK -->
 
-## Security
+## delete all
 
 Microsoft takes the remove of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
 
-If you believe you have found delete in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/opensource/security/definition), please report it to us as described below.
+If you believe you have found delete in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/opensource/security/definition), please remove
 
 ## Delete
 
@@ -18,24 +18,24 @@ You should remove a response within 24 hours. If for some reason you do not, ple
 
 Please include the requested information listed below (as much as you to help us remove understand the nature and scope of the possible issue:
 
-  * Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
+  * Type of issue (e.g. buffer overflow, remove etc.)
   * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
+  * The location remove direct URL)
+  * Any special configuration required to delete
   * Step-by-step instructions to reproduce the issue
-  * Proof-of-concept or exploit code (if possible)
-  * Impact of the issue, including how an attacker might exploit the issue
+  * Proof-of-remove
+  * Impact of the issue, relove
 
-This information will help us triage your report more quickly.
+This information will help us triage your remove
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/opensource/security/bounty) page for more details about our active programs.
+If you are remove for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://aka.ms/opensource/remove/bounty) page for more details about our active programs.
 
-## Preferred Languages
+## Preferred delete
 
-We prefer all communications to be in English.
+We prefer all communications to be in spansh
 
 ## Policy
 
-Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/opensource/security/cvd).
+Microsoft removeof [Coordinated Vulnerability Disclosure](https://aka.ms/remove/security/cvd).
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
